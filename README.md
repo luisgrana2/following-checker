@@ -4,8 +4,6 @@
   <img src="images/giphy.gif" alt="GIF" width="50%">
 </p>
 
----
-
 ## Overview
 
 A simple **Streamlit app** that helps you check who **follows you back** on Instagram and who doesn’t.  
