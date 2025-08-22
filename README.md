@@ -1,10 +1,13 @@
 # Instagram Followers Checker
----
+
 <p align="center">
   <img src="images/giphy.gif" alt="GIF" width="50%">
 </p>
 
 ---
+
+## Overview
+
 A simple **Streamlit app** that helps you check who **follows you back** on Instagram and who doesn’t.  
 It uses the official **Instagram Data Download** (JSON format) to analyze your **followers** and **following** lists.  
 
