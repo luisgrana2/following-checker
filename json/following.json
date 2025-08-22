@@ -1,0 +1,37 @@
+{
+  "relationships_following": [
+    {
+      "title": "",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/johndoe",
+          "value": "johndoe",
+          "timestamp": 1755478354
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/alexsmith",
+          "value": "alexsmith",
+          "timestamp": 1755329748
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/emilywhite",
+          "value": "emilywhite",
+          "timestamp": 1755319999
+        }
+      ]
+    }
+  ]
+}
