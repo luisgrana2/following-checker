@@ -52,4 +52,21 @@ streamlit run instagram-connections.py
 - Upload `followers.json`
 - Upload `following.json`
 
-Enjoy the results! 🎉
+There are example files. These files are structured exactly like the real Instagram JSON exports, so you can **verify the app functionality** safely.
+
+For example, in the included files:
+
+- `emilywhite` → You follow this account, but it does not follow you back  
+- `janedoe` → Follows you, but you do not follow back  
+
+Use these files to test the Streamlit interface and the results display.
+
+---
+
+## UI
+
+### App UI
+![UI Screenshot](images/ui.png)
+
+### Example Results
+![Results Screenshot](images/results.png)
